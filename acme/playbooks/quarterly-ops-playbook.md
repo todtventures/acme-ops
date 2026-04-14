@@ -35,3 +35,10 @@ A recurring checklist to plan, execute, and review quarterly operations. Keep th
 - Refresh operating metrics: validate definitions, owners, dashboards, and alert thresholds.
 - Reconfirm staffing and onboarding plan; update on-call / ownership maps if applicable.
 - Publish a short kickoff note: goals, key dates, owners, and how escalation works.
+
+## After-Next-Quarter Kick-Off (Weeks 17–18)
+
+- Post-wire next quarter
+- Total refresh operating metrics
+- Super reconfirm staffing
+- Super publish
